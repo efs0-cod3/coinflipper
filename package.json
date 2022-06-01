@@ -1,0 +1,19 @@
+{
+  "name": "flipcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.2",
+    "nodemon": "^2.0.16",
+    "path": "^0.12.7"
+  }
+}
