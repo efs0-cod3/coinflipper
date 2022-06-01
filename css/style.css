@@ -58,7 +58,7 @@ img {
 }
 
 .duarte{
-    transform: rotateZ(180deg);
+    transform: rotate3d(10,0,0,190deg);
 }
 
 /* Style the back side */
